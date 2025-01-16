@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">suzette</string>
+
+    <string name="title_activity_recipe_activity">RecipeActivity</string>
+    <string name="title_activity_cooking_activity">CookingActivity</string>
+
+</resources>

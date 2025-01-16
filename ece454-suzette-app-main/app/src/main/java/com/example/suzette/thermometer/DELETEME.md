@@ -1,0 +1,1 @@
+This directory contains file necessary to implement the bluetooth thermometer
